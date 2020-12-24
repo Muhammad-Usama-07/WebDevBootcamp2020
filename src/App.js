@@ -1,10 +1,10 @@
-
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <h1>Checking for auto deployment</h1>
     </div>
   );
 }
