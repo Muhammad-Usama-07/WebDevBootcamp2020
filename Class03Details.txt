@@ -1,0 +1,4 @@
+			********** Agenda **********
+1. what is react?
+2. things related to react.
+3. small react applpication with relation between parent & child components
