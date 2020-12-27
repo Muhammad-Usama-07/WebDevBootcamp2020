@@ -6,8 +6,7 @@ function App() {
   return (
       <div className = "App">
       {/*<Today />*/}
-          <Today></Today>
-           <h1>Hello World</h1>
+          <Today tommorow= "Monday"></Today>
       </div>
   );
 }
