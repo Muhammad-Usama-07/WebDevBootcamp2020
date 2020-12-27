@@ -7,6 +7,9 @@ function App() {
       <div className = "App">
       {/*<Today />*/}
           <Today tommorow= "Monday"></Today>
+          <Today tommorow= "tuesday"></Today>
+          <Today tommorow= "Wednesday"></Today>
+
       </div>
   );
 }
