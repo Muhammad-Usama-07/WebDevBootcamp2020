@@ -1,8 +1,13 @@
 import './App.css';
+import Today from './today.js'
+
 
 function App() {
   return (
-   <h1>Hello World</h1>
+      <div className = "App">
+           <Today />
+           <h1>Hello World</h1>
+      </div>
   );
 }
 
