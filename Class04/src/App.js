@@ -7,7 +7,7 @@ function App() {
     <div >
       <h1>Value of the counter variable is: {count}</h1>
       <br />
-      <button onClick={()=>alert('Button working')}>Update Counter</button>
+      <button onClick={()=>setCount(2)}>Update Counter</button>
     </div>
   );
 }
