@@ -5,7 +5,7 @@ function App() {
   let [count, setCount] = useState(0)
   return (
     <div >
-      <h1>Hello World</h1>
+      <h1>Value of the counter variable is: {count}</h1>
     </div>
   );
 }
