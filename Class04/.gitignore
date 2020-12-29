@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 Class04Details.docx
+*.docx
 # testing
 /coverage
 
