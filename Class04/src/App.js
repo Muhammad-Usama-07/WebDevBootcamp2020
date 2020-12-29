@@ -5,7 +5,7 @@ import Message from './message.js'
 function App() {
   let [count, setCount] = useState(1)
   return (
-    <div >
+    <div className = "box">
       <Message counter = {count}/>
       <br />
       <button onClick={()=>setCount(count + 1)}>Update Counter</button>
