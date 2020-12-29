@@ -6,7 +6,7 @@ function App() {
   let [count, setCount] = useState(1)
   return (
     <div >
-      <h1>Value of the counter variable is: {count}</h1>
+      <Message counter = {count}/>
       <br />
       <button onClick={()=>setCount(count + 1)}>Update Counter</button>
     </div>
