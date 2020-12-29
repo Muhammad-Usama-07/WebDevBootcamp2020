@@ -6,6 +6,8 @@ function App() {
   return (
     <div >
       <h1>Value of the counter variable is: {count}</h1>
+      <br />
+      <button>Update Counter</button>
     </div>
   );
 }
