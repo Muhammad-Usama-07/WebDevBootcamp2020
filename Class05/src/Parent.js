@@ -4,9 +4,10 @@ import Child2 from './Child2.js'
 
 const Parent = () => {
     return(
-        <Child />
-        <Child2 />
-
+        <div>
+            <Child />
+            <Child2 />
+        </div>
     )
 }
         
