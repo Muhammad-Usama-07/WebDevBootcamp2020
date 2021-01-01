@@ -7,3 +7,5 @@ const Parent = () => {
         <Child />
     )
 }
+        
+export default Parent;
