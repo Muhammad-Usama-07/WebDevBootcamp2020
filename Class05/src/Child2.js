@@ -1,4 +1,5 @@
 import React from 'react'
+import CounterReducer from './CounterReducer.js'
 
 const Child2 = () =>{
     return(
@@ -7,3 +8,5 @@ const Child2 = () =>{
     </div>
     )
 }
+
+export default Child2;
