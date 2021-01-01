@@ -7,8 +7,8 @@ const Child = () => {
     return(
         <div> 
             <h2>this is first child</h2>
-            <h2>the value is: {counterValue}</h2>
-            <button onClick = {()=>console.log("Button Working ")}>Increament</button>
+            <h2>the value is: {counterValue[0]}</h2>
+            <button onClick = {()=> {}}>Increament</button>
         </div>
     )
 }
