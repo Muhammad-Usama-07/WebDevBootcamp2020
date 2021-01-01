@@ -6,7 +6,7 @@ const Child2 = () =>{
     console.log(state)
     return(
     <div>
-    
+        <h3>Value of Reducer state is: {state}</h3>
     </div>
     )
 }
