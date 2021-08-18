@@ -4,8 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-Class04Details.docx
+Class05Details.docx
 *.docx
+
 # testing
 /coverage
 
