@@ -7,4 +7,4 @@
 
 ## Learning Resource
 
-### [Bootcamp 2020](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
+https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA
